@@ -79,6 +79,7 @@ class MainBodyWidget extends StatelessWidget {
                       ),
                       5.verticalSpace,
                       Link(
+
                         target: LinkTarget.blank,
                         builder: (context, followLink) => GestureDetector(
                             onTap: () => followLink,
