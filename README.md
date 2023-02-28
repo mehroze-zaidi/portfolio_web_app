@@ -1,4 +1,4 @@
-# mehroze_portfolio_flutter_web
+# portfolio_flutter_web_app
 
 A new Flutter project.
 
